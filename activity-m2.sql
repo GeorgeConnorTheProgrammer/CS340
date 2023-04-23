@@ -102,9 +102,3 @@ VALUES(
 );
 
 
-SELECT * FROM Customers;
-
-
-SELECT CustomerID, CustomerName FROM Customers WHERE PostalCode = "94536";
-
-SELECT * FROM Invoices;
